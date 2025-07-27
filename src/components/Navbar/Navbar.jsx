@@ -9,7 +9,7 @@ import logo from "../../assets/logo.png";
 const Navbar = () => {
   return (
     <>
-      <div className="fixed top-0 left-0 w-full h-18 bg-[#3A3A87] flex justify-between items-center text-amber-50 p-2 px-6 shadow-2xl">
+      <div className="fixed top-0 left-0 w-full h-18 bg-[#191961] flex justify-between items-center text-amber-50 p-2 px-6 shadow-2xl">
         {/* left  */}
         <div className="w-[40%] flex justify-between">
           <div className="hidden md:flex items-center font-extrabold text-2xl">
